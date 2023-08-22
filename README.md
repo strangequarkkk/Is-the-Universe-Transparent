@@ -1,13 +1,11 @@
-# Exploring 'Quantum Peculiarities' using single photons
+# Is the Universe Transparent?
 
 Please find attached the 'Report' file containing the work.
 
 In this Project:
 
-1) Proved the utility of spontaneous parametric down-conversion(SPDC) as a source of single photons.
+1) Constrained cosmological parameters of interest using the $`\chi^2`$-minimization routine.
 
-2) Did nonlocality tests, probing the seemingly bizzare phenomenon of quantum entanglement.
-
-3) Performed quantum state tomography for various two-qubit states by virtue of the density matrix formalism. 
+2) Constrained the transparency of the Universe using the $`\chi^2`$-minimization routine.
 
 If you need more information related to the work, don't hesitate to contact me.
